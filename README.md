@@ -2,7 +2,7 @@
 
 This is a list of (non-comprehensive) LLM system papers maintained by Cyber2Slab Lab (in Purdue University). Welcome to create a pull requst or an issue if we have missed any interesting papers!
 
-## Vulnerbility Detection
+## LLM for Vulnerbility Detection
 
 - The Hitchhiker’s Guide to Program Analysis: A Journey with Large Language Models (arXiv @ Aug 2023) [Paper Link](https://arxiv.org/abs/2308.00245) [Project Link](https://sites.google.com/view/llift-open/home) 
 - Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives (TPS-ISA @ 2023) [Paper Link](https://arxiv.org/abs/2310.01152) [Project Link](https://github.com/git-disl/GPTLens)
@@ -15,5 +15,5 @@ This is a list of (non-comprehensive) LLM system papers maintained by Cyber2Slab
 - Prompting Is All Your Need: Automated Android Bug Replay with Large Language Models ((ICSE @ 2024) [Paper Link](https://arxiv.org/abs/2306.01987)
 
 
-## Bug Fixing
+## LLM for Bug Fixing
 

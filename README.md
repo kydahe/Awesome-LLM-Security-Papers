@@ -13,7 +13,8 @@ This is a list of (non-comprehensive) LLM system papers maintained by Cyber2Slab
 - Using ChatGPT as a Static Application Security Testing Tool (arXiv @ Aug 2023) [Paper Link](https://arxiv.org/abs/2308.14434) [Project Link](https://github.com/abakhshandeh/ChatGPTasSAST)
 - The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for Security-Oriented Code Analysis (arXiv @ Aug 2023) [Paper Link](https://arxiv.org/abs/2307.12488)
 - Prompting Is All Your Need: Automated Android Bug Replay with Large Language Models ((ICSE @ 2024) [Paper Link](https://arxiv.org/abs/2306.01987)
-
+- Large Language Model guided Protocol Fuzzing (NDSS @2024) [Paper Link](https://abhikrc.com/pdf/NDSS24.pdf)
+- Can Large Language Models Provide Security & Privacy Advice? Measuring the Ability of LLMs to Refute is conceptions (ACSAC @ Dec 2023) [Paper Link](https://dl.acm.org/doi/pdf/10.1145/3627106.3627196 )
 
 ## LLM for Bug Fixing
 

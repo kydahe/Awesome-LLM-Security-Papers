@@ -15,6 +15,13 @@ This is a list of (non-comprehensive) LLM system papers. Welcome to create a pul
 - Prompting Is All Your Need: Automated Android Bug Replay with Large Language Models ((ICSE @ 2024) [Paper Link](https://arxiv.org/abs/2306.01987)
 - Large Language Model guided Protocol Fuzzing (NDSS @2024) [Paper Link](https://abhikrc.com/pdf/NDSS24.pdf)
 - Can Large Language Models Provide Security & Privacy Advice? Measuring the Ability of LLMs to Refute is conceptions (ACSAC @ Dec 2023) [Paper Link](https://dl.acm.org/doi/pdf/10.1145/3627106.3627196 )
+- KernelGPT: Enhanced Kernel Fuzzing via Large Language Models (arXiv @ Dec 2023) [Paper Link](https://arxiv.org/abs/2401.00563)
+- 
 
 ## LLM for Bug Fixing
 
+- The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model (arXiv @ Dec 2023) [Paper Link](https://arxiv.org/abs/2312.17485)
+- 
+
+## LLM Surveys
+- A Survey on Large Language Models for Software Engineering (arXiv @ Dec 2023) [Paper Link](https://arxiv.org/abs/2312.15223)

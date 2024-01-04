@@ -1,6 +1,6 @@
 # Awesome-LLM-Security-Papers
 
-This is a list of (non-comprehensive) LLM system papers maintained by Cyber2Slab Lab (Purdue University). Welcome to create a pull requst or an issue if we have missed any interesting papers!
+This is a list of (non-comprehensive) LLM system papers. Welcome to create a pull requst or an issue if we have missed any interesting papers!
 
 ## LLM for Vulnerbility Detection
 
